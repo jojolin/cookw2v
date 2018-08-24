@@ -1,7 +1,8 @@
 # cook word2vec
-- 开了个挖土机挖了接近70万+的菜谱，利用gensim训练了一些词向量模型
+- 开了个挖土机挖了接近70万+的菜谱，利用gensim训练了词向量
 - 以下是一些稍微有点意思的同类词
-- 你可以到[这里]()下载部分中间模型，最终模型暂时不予公开
+- 可以到[这里](https://pan.baidu.com/s/13YELtCBZocbH3VQGPp-cfg)下载部分中间模型，最终模型暂时不予公开
+- !! 你可以开挖土机(自备)去挖数据，然后接着训练模型
 
 ```
 (nlp) jzlin@ubuntu1604:~/projects/cookw2v$ python cycle.py model/w2v.model_1808241042 30 0.5 "七夕"
